@@ -1,6 +1,6 @@
 'use client';
 
-import { Activity, Utensils, Dumbbell, Pill, TrendingUp, Flame, Target } from 'lucide-react';
+import { Activity, Utensils, Dumbbell, Pill, TrendingUp, Flame, Target, Calendar } from 'lucide-react';
 import Link from 'next/link';
 import { calculateTMB, calculateDailyCalories, calculateMacros } from '@/lib/constants';
 
